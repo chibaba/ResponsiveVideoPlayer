@@ -1,3 +1,18 @@
+/* 
+@media only screen and (max-width: 320px) {
+  /* styles for narrow screens */
+  /* .player-wrapper{
+    position: relative;
+    height: 100vh;
+    width: 100%
+  }
+  .react-player{
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+} */ */
+
 
 
 .player-wrapper {
